@@ -1,0 +1,24 @@
+{
+	"name": "red-theme",
+	"displayName": "red-theme",
+	"description": "The VSCode Theme made & used by RedCrafter07. Inspired by the Material Palenight Theme.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.64.0"
+	},
+	"categories": [ "VSCode", "Theme", "Themes", "Dark", "RedCrafter07" ],
+	"contributes": {
+		"themes": [
+			{
+				"label": "RedCrafter07 Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/RedCrafter07 Theme-color-theme.json"
+			}
+		]
+	},
+	"publisher": "RedCrafter07",
+	"repository": {
+		"url": "https://github.com/RedCrafter07/red-theme",
+		"type": "git"
+	}
+}
