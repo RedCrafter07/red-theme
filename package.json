@@ -6,7 +6,8 @@
 	"engines": {
 		"vscode": "^1.64.0"
 	},
-	"categories": [ "VSCode", "Theme", "Themes", "Dark", "RedCrafter07" ],
+	"categories": [ "Themes" ],
+	"keywords": [ "vscode", "theme", "redcrafter07", "dark" ],
 	"contributes": {
 		"themes": [
 			{
@@ -20,5 +21,6 @@
 	"repository": {
 		"url": "https://github.com/RedCrafter07/red-theme",
 		"type": "git"
-	}
+	},
+	"license": "MIT"
 }
