@@ -2,7 +2,7 @@
 	"name": "red-theme",
 	"displayName": "red-theme",
 	"description": "The VSCode Theme made & used by RedCrafter07. Inspired by the Material Palenight Theme.",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
